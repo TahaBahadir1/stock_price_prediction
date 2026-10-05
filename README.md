@@ -67,7 +67,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn torch yfinance jupyter
 jupyter notebook
 ```
 
-
-* Modele RSI, MACD, Bollinger Bantları gibi teknik indikatörlerin eklenmesi.
-* Attention mekanizması ve Transformer tabanlı zaman serisi modellerinin denenmesi.
-* Optuna ile hiperparametre optimizasyonu yapılması.
